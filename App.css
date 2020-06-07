@@ -1,0 +1,54 @@
+.hd{
+   background-color:red;
+   font-size:40px;
+   color: blanchedalmond;
+   font-family: cursive;
+   border-width: 30px;
+   border-radius: 5px;
+   padding-left: 50px;
+   padding-top: 30px;
+   margin-bottom: 8px;
+   font-weight: bolder;
+}
+.mn{
+  background-color:red;
+  border-bottom: 1px solid white;
+  font-display: white;
+  font-family: cursive;
+  margin-top: 0px;
+  margin-bottom: 0px;
+ 
+
+}
+.head{
+  width: 18%;
+  border-top: 2px  black;
+  min-height:1300px;
+  float: left;
+  font-size:22px;
+ font-weight: bold;
+ font-display: white;
+   color:red;
+   background-color:red;
+   
+}
+.headings{
+  background-color:whitesmoke;
+  padding-left: 10%;
+  background-size: inherit;
+  color: black;
+  font-display: white;
+  font-family: sans-serif;
+  font-weight: 900;
+  font-style: unset;
+  font-feature-settings: initial;
+}
+.errorMsg {
+  color: #cc0000;
+  margin-bottom: 12px;
+}
+
+.sucessMsg {
+  color: #6B8E23;
+  margin-bottom: 10px;
+}
